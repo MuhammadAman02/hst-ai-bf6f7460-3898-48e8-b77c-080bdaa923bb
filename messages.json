@@ -1,0 +1,13 @@
+[
+  {
+    "role": "user",
+    "content": "please create what is in the pdf",
+    "attachments": [
+      {
+        "type": "application/pdf",
+        "mime": "application/octet-stream",
+        "url": "https://hstengineer.lon1.digitaloceanspaces.com/messages/bf6f7460-3898-48e8-b77c-080bdaa923bb/attachments/2e041b57-5dac-4d65-84ee-60546dad9b19.pdf"
+      }
+    ]
+  }
+]
